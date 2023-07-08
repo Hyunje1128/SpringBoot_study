@@ -1,5 +1,6 @@
 # SpringBoot_study
-## First-SpringFramework
+> First-SpringFramework
+
 ![image](https://github.com/Hyunje1128/SpringBoot_study/assets/105627475/a2f75762-b162-4841-bbd4-ace086e233db)
 
 ### Ch01. SpringFramework
